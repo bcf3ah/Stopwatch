@@ -1,0 +1,10 @@
+body {
+  padding: 30px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  position: relative;
+  right: 25px;
+}
